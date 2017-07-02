@@ -1,0 +1,34 @@
+u {
+  text-decoration: none;
+}
+u:nth-child(1) {
+  color: #03a9f4;
+}
+
+u:nth-child(2) {
+  color: #8bc34a;
+}
+
+u:nth-child(3) {
+  color: #e91e63;
+}
+
+.container {
+  padding: 0 1em;
+  text-align: center;
+}
+
+.boardContainer {
+  background-image: url(https://s.aolcdn.com/hss/storage/midas/627f1d890718ff2c58318a280145a153/203216448/nicholas-cage-con-air.jpg);
+  background-size: auto 7.5em;
+  background-position: center top;
+  background-repeat: no-repeat;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 7.5em;
+  flex-wrap: wrap;
+  font-size: 4em;
+}

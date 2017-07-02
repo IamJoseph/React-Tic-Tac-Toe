@@ -1,0 +1,15 @@
+.buttonsContainer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+  flex: 0 1 100%;
+}
+
+.resetButton {
+  background: #8BC34A;
+    border-color: #8BC34A;
+    color: #fff;
+    font-family: sans-serif;
+    border-radius: 5px;
+    font-size: .28em;
+}
